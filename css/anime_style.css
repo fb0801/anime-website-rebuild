@@ -1,0 +1,253 @@
+/*Media queries*/
+@media screen and (max-width: 1300px) {
+  .anime_man, .cd, .aki, .misty {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 1250px) {
+  .anime_man, .cd, .aki, .misty {
+    width: 50%;
+    /*50*/
+  }
+}
+
+@media screen and (max-width: 1235px) {
+  .anime_man, .cd, .aki, .misty {
+    width: 50%;
+    /*48 50*/
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .misty {
+    float: left;
+    width: 40%;
+    padding-bottom: 40px;
+  }
+  .anime_man, .cd, .aki, .misty {
+    width: 50%;
+    /*50*/
+  }
+  .misty {
+    padding-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .anime_man, .cd, .aki, .misty {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .anime_man, .cd, .aki, .misty {
+    width: 50%;
+    /*48*/
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  .anime_man, .cd, .aki, .misty {
+    width: 50%;
+    /*48*/
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .anime_man, .cd, .aki, .misty {
+    width: 50%;
+    /*48*/
+  }
+  .misty {
+    padding-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 915px) {
+  .anime_man, .cd, .aki, .misty {
+    width: 100%;
+  }
+  .aki {
+    padding-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .why_images {
+    padding-bottom: 400px;
+  }
+  .manga_aot {
+    padding-bottom: 5px;
+  }
+  .solo_book {
+    padding-bottom: 70px;
+  }
+  .nogame_nolife_class {
+    padding-bottom: 5px;
+  }
+  .over_lord {
+    padding-bottom: 140px;
+  }
+  .solo_web {
+    padding-bottom: 50px;
+  }
+  .anime_man, .cd, .aki, .misty {
+    width: 100%;
+  }
+  .misty {
+    padding-bottom: 50px;
+  }
+  .aki {
+    padding-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .navbar a {
+    float: none;
+    width: 100%;
+    display: block;
+  }
+  .dropdown {
+    text-align: center;
+    display: block;
+    width: 100%;
+    float: none;
+  }
+  .dropbtn {
+    text-align: center;
+    width: 100%;
+    float: none;
+    display: block;
+  }
+  .dropdown-content {
+    width: 50%;
+    text-align: center;
+  }
+  .hxh_anime {
+    margin-bottom: 15px;
+  }
+  .gintama_ani {
+    margin-bottom: 10px;
+  }
+  .aot_anime {
+    margin-bottom: 10px;
+  }
+  .manga_aot {
+    padding-bottom: 10px;
+  }
+  .solo_book {
+    padding-bottom: 70px;
+  }
+  .fun_2 {
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .navbar a {
+    float: left;
+  }
+  .dropdown {
+    float: left;
+    display: block;
+  }
+  .jojo_class, .gintama_class, .dom_class, .solo_book {
+    width: 100%;
+  }
+  .hxh_anime {
+    padding-bottom: 5px;
+  }
+  .gintama_ani {
+    padding-bottom: 5px;
+  }
+  .aot_anime {
+    padding-bottom: 10px;
+  }
+  .jojo_class {
+    padding-bottom: 10px;
+  }
+  .solo_book {
+    padding-bottom: 10px;
+  }
+  .wolf {
+    padding-bottom: 30px;
+  }
+  .fun_2 {
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .why_images {
+    padding-bottom: 130px;
+  }
+  .hxh_anime {
+    padding-bottom: 5px;
+  }
+  .gintama_ani {
+    padding-bottom: 5px;
+  }
+  .aot_anime {
+    padding-bottom: 10px;
+  }
+  .fun_2 {
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .gon {
+    width: 400px;
+  }
+  .misty_chron, .akid, .cdawg_vid, .joe {
+    width: 242;
+  }
+  .slide_2 {
+    width: 200px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navbar a {
+    float: none;
+    width: 100%;
+    display: block;
+  }
+  .dropdown {
+    text-align: center;
+    display: block;
+    width: 100%;
+    float: none;
+  }
+  .dropbtn {
+    text-align: center;
+    width: 100%;
+    float: none;
+    display: block;
+  }
+  .dropdown-content {
+    width: 50%;
+    text-align: center;
+  }
+  .jojo_class, .gintama_class, .dom_class {
+    width: 100%;
+  }
+  .hxh_anime {
+    margin-bottom: 15px;
+  }
+  .gintama_ani {
+    margin-bottom: 10px;
+  }
+  .aot_anime {
+    margin-bottom: 10px;
+  }
+  .gon {
+    width: 370px;
+  }
+}
+
+/*different colours to use*/
+/*# sourceMappingURL=anime_style.css.map */
